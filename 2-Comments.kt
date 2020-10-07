@@ -6,6 +6,6 @@
 * Ini adalah fungsi utama. Titik masuk aplikasi.
 * */
 
-fun main(args: Array<String>) {     // Ini adalah komentar sebaris...
+fun main() {     // Ini adalah komentar sebaris...
     print("Hello World")
 }
