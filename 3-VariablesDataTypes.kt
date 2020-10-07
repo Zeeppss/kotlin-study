@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
 
     var myNumber = 10       // Int
-    var myDecimal = 1.0     // Float
+    var myDecimal = 1.0F     // Float
     var isActive = true     // Boolean
 
     var myString: String    // Mutable String
