@@ -27,7 +27,7 @@ fun main() {
 
 Kesimpulan:
 
-//> = Lebih besar
+// > = Lebih besar
 // < = Lebih kecil
 // >= = Lebih dari sama dengan
 // <= = Kurang dari sama dengan
