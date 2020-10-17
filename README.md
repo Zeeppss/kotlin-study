@@ -1,6 +1,4 @@
 # kotlin-study
-Berikut beberapa kegunaan kode kotlin.
+Berikut beberapa penggunaan kode kotlin.
 
-Ingin mempelajari lebih cepat dan dekat?
-
-Silahkan hubungin akun Discord: **Zeeppss#6552**
+Anda bisa sedikit dekat dengan mempelajari kotlin berbahasa indonesia
