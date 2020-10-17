@@ -27,9 +27,9 @@ fun main() {
 
 Kesimpulan:
 
-```> = Lebih besar
-< = Lebih kecil
->= = Lebih dari sama dengan
-<= = Kurang dari sama dengan
-== = Sama dengan
-!= = Tidak sama dengan
+//> = Lebih besar
+// < = Lebih kecil
+// >= = Lebih dari sama dengan
+// <= = Kurang dari sama dengan
+// == = Sama dengan
+// != = Tidak sama dengan
