@@ -15,4 +15,4 @@ fun main() {
 }
 
 // Maka hasil yang diperoleh adalah b = 5, karena `>` menandakan lebih besar
-Anda bisa menghafal semua operators di [7-ComparativeOperations](https://github.com/Zeeppss/kotlin-study/blob/main/7-ComparativeOperations.kt)
+// Jenis operators >> `7-ComparativeOperations`
