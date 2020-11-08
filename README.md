@@ -1,6 +1,5 @@
 # kotlin-study
 Berikut beberapa penggunaan kode kotlin.
 
-Anda bisa sedikit dekat dengan mempelajari kotlin berbahasa indonesia
+`Anda bisa mempraktikkan lewat kode ini!`
 
-Note: `kotlin-study` **ada kaitannya dengan minecraft plugin beginners!**
